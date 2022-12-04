@@ -1,0 +1,10 @@
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.col-lg-4{
+	margin-left: 240px;
+}
+.col-lg-4 a:hover{
+	opacity: 0.6;
+}
